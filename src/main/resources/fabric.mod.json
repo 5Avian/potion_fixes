@@ -3,7 +3,7 @@
   "id": "potion_fixes",
   "version": "${version}",
   "name": "Potion Fixes",
-  "description": "Fixes several potion-related issues for in modded environments",
+  "description": "Fixes a few issues with potion-related systems",
   "authors": [
     "5Avian"
   ],
