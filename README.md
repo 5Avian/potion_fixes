@@ -1,6 +1,6 @@
 # Potion Fixes
 
-![Requires Fabric API](https://i.imgur.com/Ol1Tcf8.png)
+[![Requires Fabric API](https://i.imgur.com/Ol1Tcf8.png)](https://modrinth.com/mod/fabric-api)
 
 Potion Fixes fixes a few issues with potion-related systems.
 
