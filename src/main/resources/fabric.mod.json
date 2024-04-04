@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "potion_fixes",
+  "version": "${version}",
+  "name": "Potion Fixes",
+  "description": "Fixes several potion-related issues for in modded environments",
+  "authors": [
+    "5Avian"
+  ],
+  "contact": {
+    "repo": "https://github.com/5Avian/potion_fixes"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "potion_fixes.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fiveavian.potion_fixes.PotionFixes"
+    ]
+  },
+  "mixins": [
+    "potion_fixes.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
